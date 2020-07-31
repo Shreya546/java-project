@@ -1,6 +1,8 @@
- package git.demo;
+package git.demo;
 
 import java.util.Scanner;
+
+//this is soltion for Question37
 
 public class JavaQ37 {
 
